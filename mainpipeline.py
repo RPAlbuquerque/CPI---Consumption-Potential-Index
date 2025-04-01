@@ -4,11 +4,11 @@ from utils import compute_final_cpi, save_geojson_with_cpi, generate_cpi_map
 
 # ================== CONFIG ==================
 # Define paths
-csv_path = "/n/netscratch/cga/Lab/rpalbuquerque/CPI/cpi_por_setor_2020_dez.csv"
-geojson_path = "/n/home03/rpereiraalbuquerque/shapes/municipios_simplificados.geojson"
-out_csv = "/n/netscratch/cga/Lab/rpalbuquerque/CPI/cpi_final_setores_2020_dez.csv"
-out_geojson = "/n/netscratch/cga/Lab/rpalbuquerque/CPI/setores_com_CPI_final_2020_dez.geojson"
-out_html = "/n/netscratch/cga/Lab/rpalbuquerque/CPI/mapa_interativo_cpi_final_2020_dez.html"
+csv_path = "to request"
+geojson_path = "to request"
+out_csv = "to request"
+out_geojson = "to request"
+out_html = "to request"
 
 # ============== PIPELINE ==============
 print("📥 Loading CSV data...")
