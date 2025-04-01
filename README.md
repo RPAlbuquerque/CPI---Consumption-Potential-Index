@@ -58,6 +58,7 @@ This version is only available for one month (e.g., December 2020). Adjustments 
 This is a component of a broader research project on urban economic dynamics and digital behavior.
 
 
+
 👨‍🔬 Author
 Rafael Albuquerque
 Visiting Fellow at the Center for Geographic Analysis – Harvard University
