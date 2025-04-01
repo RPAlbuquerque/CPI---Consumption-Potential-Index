@@ -60,9 +60,8 @@ This is a component of a broader research project on urban economic dynamics and
 
 
 👨‍🔬 Authors:
-Rafael Albuquerque
-Visiting Fellow at the Center for Geographic Analysis – Harvard University and
+Rafael Albuquerque - Visiting Fellow at the Center for Geographic Analysis – Harvard University and
 PhD Candidate in Marketing at Federal University of Rio Grande do Sul (UFRGS - Brazil)
 
-Devika Kakkar
+Devika Kakkar - 
 Center for Geographic Analysis - Harvard University
